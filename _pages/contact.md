@@ -2,7 +2,7 @@
 title: Contact Us
 layout: single
 sitemap: true
-permalink: /outreach
+permalink: /connect
 header:
   overlay_filter: "0.6"
   overlay_image: "/images/bbreno.png"
